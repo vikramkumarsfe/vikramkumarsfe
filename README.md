@@ -30,7 +30,7 @@ I enjoy working on projects that merge **performance, security, and great UX**.
 - 🔐 [**Filemoon**](https://github.com/vikramkumarsfe/filemoon)  
   *A secure file-sharing platform built with Node.js, Express, MongoDB (MVC architecture, JWT Auth).*  
 
-- 🧮 [**SkillSwap**](https://github.com/vikramkumarsfe/abacus-on-web)  
+- 🧮 [**SkillSwap**](https://github.com/vikramkumarsfe/skillswap1)  
   *A full-stack web platform for as a skill sharing platform for every age category persons.*  
 
 
