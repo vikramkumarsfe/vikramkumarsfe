@@ -30,11 +30,9 @@ I enjoy working on projects that merge **performance, security, and great UX**.
 - 🔐 [**Filemoon**](https://github.com/vikramkumarsfe/filemoon)  
   *A secure file-sharing platform built with Node.js, Express, MongoDB (MVC architecture, JWT Auth).*  
 
-- 🧮 [**Abacus-on-Web**](https://github.com/vikramkumarsfe/abacus-on-web)  
-  *A full-stack web platform for learning and practicing abacus, built with Django + modern frontend tools.*  
+- 🧮 [**SkillSwap**](https://github.com/vikramkumarsfe/abacus-on-web)  
+  *A full-stack web platform for as a skill sharing platform for every age category persons.*  
 
-- ⚡ [**Next.js Portfolio**](https://github.com/vikramkumarsfe/next-portfolio)  
-  *A personal portfolio built with Next.js and TailwindCSS, optimized for performance and SEO.*  
 
 ---
 
