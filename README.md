@@ -9,7 +9,7 @@ I'm a **Full-Stack Developer** passionate about building secure and scalable web
 With expertise in **Node.js, React, Next.js, TypeScript, MongoDB, and TailwindCSS**, I craft modern, responsive UIs and powerful backends.  
 I enjoy working on projects that merge **performance, security, and great UX**.
 
-aadmi hi galat hai to pura page hi galat hoga
+
 
 ---
 
